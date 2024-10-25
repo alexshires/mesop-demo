@@ -26,7 +26,7 @@ def visualisation_func():
 
 
 
-@me.page(path="/predict",
+@me.page(path="/visualise",
         security_policy=me.SecurityPolicy(
             dangerously_disable_trusted_types=True
         )

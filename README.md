@@ -8,7 +8,7 @@ Setup: `pip install -r requirements.txt`
 mesop demo/main.py
 ```
 
-## Stage 2: Standard example with input and output
+## Stage 2: Standard example with input and output
 
 ```
 mesop example/example.py

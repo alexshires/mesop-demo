@@ -10,7 +10,7 @@
 import mesop as me
 import time
 
-from demo_utils import (
+from utils import (
   header_text,
   footer,
   State,
